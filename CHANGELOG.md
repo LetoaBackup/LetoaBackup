@@ -23,3 +23,12 @@ I have increased the limit for non-premium users making sure they can have a goo
 You may also now purchase premium without dming me. You may visit it here: https://letoa.me/premium
 
 You may preview all of the amazing updates done here at https://letoa.me/. 
+
+## 2.0.2
+
+### New premium prices
+
+Premium prices have been updated to a lower price.
+
+### New Feature
+If you have premium, you may have to activate premium for it to actually take affect
